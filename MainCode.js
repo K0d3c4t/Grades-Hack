@@ -12,5 +12,5 @@ if (i==3){
 Elements(i).textContent = "92"}
 if (i==4){
 Elements(i).textContent = "93"}
-}
+}}
 myFunction();
